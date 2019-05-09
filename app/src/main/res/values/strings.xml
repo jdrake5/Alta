@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alta</string>
+    <string name="thumbnail">Thumbnail of video</string>
+    <string name="song_title">title_of_song</string>
+    <string name="current_text">Currently</string>
+    <string name="actually_text">Actual Temp</string>
+    <string name="feels_like_text">Feels Like</string>
+    <string name="current_summary_stand_in">current_weather_summary</string>
+    <string name="daily_summary_stand_in">daily_weather_summary</string>
+    <string name="empty_degree">00℉</string>
+    <string name="empty_location">City, ST</string>
+</resources>
