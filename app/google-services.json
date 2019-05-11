@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "232081156329",
+    "firebase_url": "https://alta-4444.firebaseio.com",
+    "project_id": "alta-4444",
+    "storage_bucket": "alta-4444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232081156329:android:05bf53b364025fc8",
+        "android_client_info": {
+          "package_name": "com.example.wind_turbine_tapes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232081156329-i1q02fddnphrhg5qoc89ke359voptleh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wind_turbine_tapes",
+            "certificate_hash": "042a09123ad7d52b1a5a15e3c8b603f0435734ed"
+          }
+        },
+        {
+          "client_id": "232081156329-s3a27cj57vf702portesngvaabqp26l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWSg3LKWnwwdbfMiKwiNAuVKEnJoHWiZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232081156329-s3a27cj57vf702portesngvaabqp26l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
